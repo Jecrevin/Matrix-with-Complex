@@ -1,2 +1,2 @@
 # Matrix-with-Complex
-A Matrix written in scala for Double along with self-defined Complex number
+A Matrix written in scala based on self-defined numerical system for real and complex numbers
